@@ -1,0 +1,8 @@
+{
+  "ipfsAPI":"/ip4/127.0.0.1/tcp/5001",
+  "web3Provider":"http://localhost:35002",
+  "bankWalletAddress": "0xc341dbefbdaf1211e1b65c83b1358df9bede1eae",
+  "bankWalletPassword":"",
+  "appPort":"5050",
+  "redirectionIP":"13.56.107.236:8500"
+}

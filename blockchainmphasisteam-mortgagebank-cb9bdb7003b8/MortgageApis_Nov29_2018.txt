@@ -1,0 +1,12 @@
+Bank :
+
+    Customer : http://54.213.191.186:8500/Bank/
+
+    Bank Admin : http://54.213.191.186:8500/Bank/BankAdmin.html
+
+    Explorer : http://54.213.191.186:8500/BlockchainExplorerV0.4/
+
+ChainInsurance : http://54.218.115.190:8500/InsuranceModule/AdminHome.html
+
+BlockInsurance : http://34.222.129.145:8500/MortgageBlockInsurance/AdminHome.html
+
